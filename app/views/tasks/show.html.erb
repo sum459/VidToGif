@@ -4,11 +4,15 @@
   <strong>Title:</strong>
   <%= @task.title %>
 </p>
-
+<br>
 <p>
   <strong>Note:</strong>
   <%= @task.note %>
 </p>
+<div>
+<image controls width="100" height="100" <%= image_tag @task.video.url %>
+</div><br>
+
 
 <%= link_to 'Edit', edit_task_path(@task) %> |
 <%= link_to 'Back', tasks_path %>
