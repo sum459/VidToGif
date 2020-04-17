@@ -1,0 +1,174 @@
+I, [2020-04-17T08:31:12.617529 #8562]  INFO -- : Refreshing Gem list
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/store.rb:106: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/store.rb:109: warning: The called method `store_accessor' is defined here
+I, [2020-04-17T08:31:14.143362 #8562]  INFO -- : listening on addr=/home/deploy/appname/shared/sockets/unicorn.sock fd=9
+I, [2020-04-17T08:31:14.143599 #8562]  INFO -- : worker=0 spawning...
+I, [2020-04-17T08:31:14.146787 #8562]  INFO -- : worker=1 spawning...
+I, [2020-04-17T08:31:14.149626 #8562]  INFO -- : master process ready
+I, [2020-04-17T08:31:14.154505 #8565]  INFO -- : worker=0 spawned pid=8565
+I, [2020-04-17T08:31:14.154766 #8565]  INFO -- : worker=0 ready
+I, [2020-04-17T08:31:14.158490 #8566]  INFO -- : worker=1 spawned pid=8566
+I, [2020-04-17T08:31:14.158726 #8566]  INFO -- : worker=1 ready
+I, [2020-04-17T08:36:39.346481 #8562]  INFO -- : reaped #<Process::Status: pid 8565 exit 0> worker=0
+I, [2020-04-17T08:36:39.347135 #8562]  INFO -- : reaped #<Process::Status: pid 8566 exit 0> worker=1
+I, [2020-04-17T08:36:39.347274 #8562]  INFO -- : master complete
+I, [2020-04-17T08:37:47.205830 #9804]  INFO -- : Refreshing Gem list
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/store.rb:106: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/store.rb:109: warning: The called method `store_accessor' is defined here
+I, [2020-04-17T08:37:48.520400 #9804]  INFO -- : unlinking existing socket=/home/deploy/appname/shared/sockets/unicorn.sock
+I, [2020-04-17T08:37:48.520709 #9804]  INFO -- : listening on addr=/home/deploy/appname/shared/sockets/unicorn.sock fd=9
+I, [2020-04-17T08:37:48.520916 #9804]  INFO -- : worker=0 spawning...
+I, [2020-04-17T08:37:48.523342 #9804]  INFO -- : worker=1 spawning...
+I, [2020-04-17T08:37:48.525360 #9804]  INFO -- : master process ready
+I, [2020-04-17T08:37:48.533533 #9807]  INFO -- : worker=0 spawned pid=9807
+I, [2020-04-17T08:37:48.533756 #9807]  INFO -- : worker=0 ready
+I, [2020-04-17T08:37:48.534992 #9808]  INFO -- : worker=1 spawned pid=9808
+I, [2020-04-17T08:37:48.535198 #9808]  INFO -- : worker=1 ready
+I, [2020-04-17T08:38:38.121389 #9804]  INFO -- : reaped #<Process::Status: pid 9807 exit 0> worker=0
+I, [2020-04-17T08:38:38.121551 #9804]  INFO -- : reaped #<Process::Status: pid 9808 exit 0> worker=1
+I, [2020-04-17T08:38:38.121672 #9804]  INFO -- : master complete
+I, [2020-04-17T08:45:09.212339 #10644]  INFO -- : Refreshing Gem list
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/store.rb:106: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/store.rb:109: warning: The called method `store_accessor' is defined here
+I, [2020-04-17T08:45:10.364302 #10644]  INFO -- : unlinking existing socket=/home/deploy/appname/shared/sockets/unicorn.sock
+I, [2020-04-17T08:45:10.364587 #10644]  INFO -- : listening on addr=/home/deploy/appname/shared/sockets/unicorn.sock fd=9
+I, [2020-04-17T08:45:10.364745 #10644]  INFO -- : worker=0 spawning...
+I, [2020-04-17T08:45:10.367846 #10644]  INFO -- : worker=1 spawning...
+I, [2020-04-17T08:45:10.370755 #10644]  INFO -- : master process ready
+I, [2020-04-17T08:45:10.378238 #10647]  INFO -- : worker=0 spawned pid=10647
+I, [2020-04-17T08:45:10.378463 #10647]  INFO -- : worker=0 ready
+I, [2020-04-17T08:45:10.379972 #10648]  INFO -- : worker=1 spawned pid=10648
+I, [2020-04-17T08:45:10.380151 #10648]  INFO -- : worker=1 ready
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/messages/rotator.rb:28: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/messages/rotator.rb:6: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/view_paths.rb:11: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/lookup_context.rb:140: warning: The called method `template_exists?' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/unbound_template.rb:24: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/template.rb:130: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/type/integer.rb:13: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/type/value.rb:8: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/connection_adapters/postgresql/oid/specialized_string.rb:12: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/type/value.rb:8: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionpack-6.0.2.2/lib/action_dispatch/middleware/cookies.rb:635: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/message_encryptor.rb:150: warning: The called method `encrypt_and_sign' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/message_encryptor.rb:175: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/messages/metadata.rb:17: warning: The called method `wrap' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/messages/rotator.rb:28: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/messages/rotator.rb:6: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/view_paths.rb:11: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/lookup_context.rb:140: warning: The called method `template_exists?' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/unbound_template.rb:24: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/template.rb:130: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/type/integer.rb:13: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/type/value.rb:8: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/connection_adapters/postgresql/oid/specialized_string.rb:12: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/type/value.rb:8: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionpack-6.0.2.2/lib/action_dispatch/middleware/cookies.rb:635: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/message_encryptor.rb:150: warning: The called method `encrypt_and_sign' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/message_encryptor.rb:175: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/messages/metadata.rb:17: warning: The called method `wrap' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/railties/collection_cache_association_loading.rb:7: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/railties/collection_cache_association_loading.rb:12: warning: The called method `relation_from_options' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/translation.rb:67: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/i18n-1.8.2/lib/i18n.rb:195: warning: The called method `translate' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/naming.rb:206: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/i18n-1.8.2/lib/i18n.rb:195: warning: The called method `translate' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/helpers/form_helper.rb:758: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/helpers/form_helper.rb:1527: warning: The called method `html_options_for_form_with' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionpack-6.0.2.2/lib/abstract_controller/helpers.rb:67: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionpack-6.0.2.2/lib/action_controller/metal/request_forgery_protection.rb:313: warning: The called method `form_authenticity_token' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/transactions.rb:212: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/connection_adapters/abstract/database_statements.rb:274: warning: The called method `transaction' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/persistence.rb:470: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/timestamp.rb:127: warning: The called method `create_or_update' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/railties/collection_cache_association_loading.rb:7: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/railties/collection_cache_association_loading.rb:12: warning: The called method `relation_from_options' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/translation.rb:67: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/i18n-1.8.2/lib/i18n.rb:195: warning: The called method `translate' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/naming.rb:206: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/i18n-1.8.2/lib/i18n.rb:195: warning: The called method `translate' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/helpers/form_helper.rb:758: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/helpers/form_helper.rb:1527: warning: The called method `html_options_for_form_with' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionpack-6.0.2.2/lib/abstract_controller/helpers.rb:67: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionpack-6.0.2.2/lib/action_controller/metal/request_forgery_protection.rb:313: warning: The called method `form_authenticity_token' is defined here
+I, [2020-04-17T08:53:14.664343 #10644]  INFO -- : reaped #<Process::Status: pid 10647 exit 0> worker=0
+I, [2020-04-17T08:53:14.664577 #10644]  INFO -- : reaped #<Process::Status: pid 10648 exit 0> worker=1
+I, [2020-04-17T08:53:14.664688 #10644]  INFO -- : master complete
+I, [2020-04-17T08:57:08.353827 #11278]  INFO -- : Refreshing Gem list
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/store.rb:106: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/store.rb:109: warning: The called method `store_accessor' is defined here
+I, [2020-04-17T08:57:09.716448 #11278]  INFO -- : unlinking existing socket=/home/deploy/appname/shared/sockets/unicorn.sock
+I, [2020-04-17T08:57:09.716722 #11278]  INFO -- : listening on addr=/home/deploy/appname/shared/sockets/unicorn.sock fd=9
+I, [2020-04-17T08:57:09.716963 #11278]  INFO -- : worker=0 spawning...
+I, [2020-04-17T08:57:09.719933 #11278]  INFO -- : worker=1 spawning...
+I, [2020-04-17T08:57:09.722514 #11278]  INFO -- : master process ready
+I, [2020-04-17T08:57:09.730795 #11281]  INFO -- : worker=0 spawned pid=11281
+I, [2020-04-17T08:57:09.731062 #11281]  INFO -- : worker=0 ready
+I, [2020-04-17T08:57:09.732725 #11282]  INFO -- : worker=1 spawned pid=11282
+I, [2020-04-17T08:57:09.732984 #11282]  INFO -- : worker=1 ready
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/messages/rotator.rb:28: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/messages/rotator.rb:6: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/view_paths.rb:11: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/lookup_context.rb:140: warning: The called method `template_exists?' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/unbound_template.rb:24: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/template.rb:130: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/type/integer.rb:13: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/type/value.rb:8: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/connection_adapters/postgresql/oid/specialized_string.rb:12: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/type/value.rb:8: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionpack-6.0.2.2/lib/action_dispatch/middleware/cookies.rb:635: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/message_encryptor.rb:150: warning: The called method `encrypt_and_sign' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/message_encryptor.rb:175: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/messages/metadata.rb:17: warning: The called method `wrap' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/messages/rotator.rb:28: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/messages/rotator.rb:6: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/type/integer.rb:13: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/type/value.rb:8: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/connection_adapters/postgresql/oid/specialized_string.rb:12: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/type/value.rb:8: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/view_paths.rb:11: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/lookup_context.rb:140: warning: The called method `template_exists?' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/unbound_template.rb:24: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/template.rb:130: warning: The called method `initialize' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionpack-6.0.2.2/lib/action_dispatch/middleware/cookies.rb:635: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/message_encryptor.rb:150: warning: The called method `encrypt_and_sign' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/message_encryptor.rb:175: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activesupport-6.0.2.2/lib/active_support/messages/metadata.rb:17: warning: The called method `wrap' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/railties/collection_cache_association_loading.rb:7: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/railties/collection_cache_association_loading.rb:12: warning: The called method `relation_from_options' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/translation.rb:67: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/i18n-1.8.2/lib/i18n.rb:195: warning: The called method `translate' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/naming.rb:206: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/i18n-1.8.2/lib/i18n.rb:195: warning: The called method `translate' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/helpers/form_helper.rb:758: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/helpers/form_helper.rb:1527: warning: The called method `html_options_for_form_with' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionpack-6.0.2.2/lib/abstract_controller/helpers.rb:67: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionpack-6.0.2.2/lib/action_controller/metal/request_forgery_protection.rb:313: warning: The called method `form_authenticity_token' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/railties/collection_cache_association_loading.rb:7: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/railties/collection_cache_association_loading.rb:12: warning: The called method `relation_from_options' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/translation.rb:67: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/i18n-1.8.2/lib/i18n.rb:195: warning: The called method `translate' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/naming.rb:206: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/i18n-1.8.2/lib/i18n.rb:195: warning: The called method `translate' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/helpers/form_helper.rb:758: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionview-6.0.2.2/lib/action_view/helpers/form_helper.rb:1527: warning: The called method `html_options_for_form_with' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionpack-6.0.2.2/lib/abstract_controller/helpers.rb:67: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/actionpack-6.0.2.2/lib/action_controller/metal/request_forgery_protection.rb:313: warning: The called method `form_authenticity_token' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/transactions.rb:212: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/connection_adapters/abstract/database_statements.rb:274: warning: The called method `transaction' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/persistence.rb:470: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/timestamp.rb:127: warning: The called method `create_or_update' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/transactions.rb:212: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/connection_adapters/abstract/database_statements.rb:274: warning: The called method `transaction' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/persistence.rb:470: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/timestamp.rb:127: warning: The called method `create_or_update' is defined here
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.2/lib/active_record/attribute_methods/dirty.rb:102: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/deploy/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activemodel-6.0.2.2/lib/active_model/attribute_mutation_tracker.rb:45: warning: The called method `changed?' is defined here
